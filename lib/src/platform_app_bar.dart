@@ -186,7 +186,7 @@ class PlatformAppBar
       systemOverlayStyle: data?.systemOverlayStyle,
       titleTextStyle: data?.titleTextStyle,
       toolbarTextStyle: data?.toolbarTextStyle,
-      scrolledUnderElevation: data?.scrolledUnderElevation,
+      // scrolledUnderElevation: data?.scrolledUnderElevation,
       surfaceTintColor: data?.surfaceTintColor,
       // deprecated...
       // brightness
