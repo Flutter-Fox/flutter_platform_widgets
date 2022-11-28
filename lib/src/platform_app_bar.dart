@@ -187,7 +187,7 @@ class PlatformAppBar
       titleTextStyle: data?.titleTextStyle,
       toolbarTextStyle: data?.toolbarTextStyle,
       // scrolledUnderElevation: data?.scrolledUnderElevation,
-      surfaceTintColor: data?.surfaceTintColor,
+      // surfaceTintColor: data?.surfaceTintColor,
       // deprecated...
       // brightness
       // textTheme
